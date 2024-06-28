@@ -1,0 +1,18 @@
+form {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+input, label, button {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+}
+
+button[type="button"] {
+    width: auto;
+    margin-top: 10px;
+}

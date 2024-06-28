@@ -1,0 +1,35 @@
+/* App.css */
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+form {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+input, label, button {
+  display: block;
+  margin: 10px 0;
+  width: 100%;
+}
+
+button[type="button"] {
+  width: auto;
+  margin-top: 10px;
+}
